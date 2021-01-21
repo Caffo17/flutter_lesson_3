@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application using **BLoC** archit
 ## What will I learn?
  - BLoC library widgets and concepts;
  - Differences between Cubit and Bloc classes;
- - Build a simple application with the BLoC state management.
+ - Build a simple application with the BLoC state management;
  - Manage the Cubit injection through different routes.
 
 ## References
